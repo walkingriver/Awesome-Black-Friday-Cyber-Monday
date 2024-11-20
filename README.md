@@ -529,6 +529,7 @@ Total deals: 356
 | 🏎️ | [Speed up Your Django Tests](https://adamchainz.gumroad.com/l/suydt) | A practical guide to making your Django project’s tests faster. | 50% off from $49 to $24.50. No code needed. |
 | 🚆 | [Build A SaaS App In Rails 8 (complete package)](https://robrace.gumroad.com/l/basair8cp/bfcm24) | Learn to build a production-ready SaaS app in Rails 8 | Use link or code bfcm24 for 60% off |
 | 🚆 | [Rails 8 Everything Bundle](https://robrace.gumroad.com/l/r8eb/bfcm24) | Build A SaaS App In Rails 8 + two other upcoming books in one package | Use link or code bfcm24 for 60% off |
+| 📚 | [Mike Callaghan’s Complete Works](https://walkingriver.gumroad.com/l/everything) | 12 books, 4 courses, and all future items covering AI development, web and mobile development, Angular, Ionic, and more | 75% off. No code needed |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -615,6 +616,9 @@ Total deals: 356
 |  💻 | [Cursor AI - Master the AI-Powered IDE](https://www.udemy.com/course/cursor-ai-ide/?couponCode=BLACK-FRIDAY-2024) | Learn to supercharge your coding productivity with Cursor AI IDE. Master AI pair programming and code generation features through real-world examples. | 90% OFF with code **BLACK-FRIDAY-2024** |
 |  🧪 | [LabEx](https://labex.io/pricing) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | 50% OFF (2 Years) with code **BF50OFF**, 30% OFF (1 Years) with code **BF30OFF** |
 |  🕷️ | [The Ultimate Web Scraping Course!](https://adrianhorning.gumroad.com/l/the-ultimate-web-scraping-course)  | The best web scraping course out there. (Node.js) By Adrian The Web Scraping Guy | 50% OFF!!! with code **NR3P9NI** |
+Yes, mentioning the companion books would add value and make the listing more enticing. Here’s an updated version for the “Programming Courses” section:
+| 🖥️ | [Mike Callaghan’s Complete Works - Programming Courses Bundle](https://walkingriver.gumroad.com/l/everything) | 4 comprehensive courses on web and mobile development, plus 12 companion books covering Angular, Ionic, and more | 75% off. No code needed |
+| 🤖 | [AI-Focused Programming Books Bundle](https://walkingriver.gumroad.com/l/ai-books) | A curated selection from Mike Callaghan's works, diving deep into AI applications in web and mobile development | 40% off from $25 to $15. No code needed |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -639,7 +643,7 @@ Total deals: 356
 |  🎥 | [Screencasting.com](https://screencasting.com/) | Effortlessly create high-quality screencasts faster than ever. In this course, you'll learn all the need-to-know screencasting topics, tips, and tricks.| $100 off the Basic or Complete Package with code **BLACKFRIDAY** (valid 11/27/24 through 12/3/24) |
 |  🎓 | [A 1:1 guide for engineering managers](https://karloscodes.gumroad.com/l/team-1-1) | A practical guide and Notion template to transform routine check-ins into meaningful conversations, build stronger teams and help people unleash their potential.| 60% OFF with **BLACKFRIDAY** (valid 11/16/24 through 12/3/24) |
 | ✨ | [From Side Project to Going Indie Course](https://courses.avanderlee.com/p/from-side-project-to-going-indie?coupon_code=BLACKFRIDAY50&product_id=5860309) | Turns your passion into independence. | 50% off using code **BLACKFRIDAY50** from Nov 15 - Nov 30 |
-| 🚀  | [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | 50% off using code **BLACK** from Nov 15 - Nov 30 |
+| 🚀  | [Get Your First Client as a Freelancer]([https://courses.avanderlee.com/p/from-side-project-to-going-indie?coupon_code=BLACKFRIDAY50&product_id=5860309](https://getyourfirstclient.freelancerpath.com/)) | A complete step by step guide to get your first client as a freelancer from scratch. | 50% off using code **BLACK** from Nov 15 - Nov 30 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -701,7 +705,6 @@ Total deals: 356
 | 🍻 | [BestTime.app](https://besttime.app) | Data API for visitor patterns in bars, shops, museums, etc. E.g. Find busy bars, quiet museums | 50% OFF with code *BLAC-KFRI-DAY1* |
 | 🍿 | [kudos.wiki](https://kudos.wiki) | Discover all the best films on Wikipedia | 50% OFF with code **BF2024** |
 | 💎 | [WISE RPG Course + Kit](https://trentopedia.gumroad.com/l/WISE-RPG-Tutorial-1/BCV2FZ3)| Organize your worlds, conquer procrastination, and master stress-free gaming. WISE RPG is a game system-agnostic course + kit for worldbuilding that helps you create immersive worlds in Obsidian. | 40% off with code BCV2FZ3 now thru 12/03 (applied to link already)|
-| 🛠️ | albusbit.com | Tools for Active Directory management, permissions auditing, and sysadmin reporting. | 40% OFF with code BF2024 |
 
 
 [⬆️ Go to Top](#table-of-contents)
